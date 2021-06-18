@@ -2,7 +2,7 @@
 <script>
     <using xmlTag="lucene" module="com.alogic.xscript.lucene.IndexConf"/>
 
-    <lucene indexDir="D:\\luceneIndex" analyzer="StandardAnalyzer">
+    <lucene indexDir="C:\\luceneIndex" analyzer="StandardAnalyzer">
     	<!-- create为false即批量增加索引,默认为false;
     		true即新建索引，如果是第一次用lucene建立索引，则必须设置为true -->
     	<idx-writer create="true">

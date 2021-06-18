@@ -2,7 +2,7 @@
 <script>
     <using xmlTag="lucene" module="com.alogic.xscript.lucene.IndexConf"/>
 
-    <lucene indexDir="D:\\luceneIndex" analyzer="StandardAnalyzer">
+    <lucene indexDir="C:\\luceneIndex" analyzer="StandardAnalyzer">
    		<idx-writer>
         <!-- 在这里你可以使用alogic-xcript-lucene提供的语句
         -->

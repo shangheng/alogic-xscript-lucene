@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>alogic-xscript-lucene</artifactId>
 	<groupId>com.github.anylogic</groupId>
-	<version>1.6.9-SNAPSHOT</version>
+	<version>1.6.9</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<alogic.version>1.6.9-SNAPSHOT</alogic.version>
+		<alogic.version>1.6.9</alogic.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -30,12 +30,12 @@
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
-			<version>3.9</version>
+			<version>5.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.xmlbeans</groupId>
 			<artifactId>xmlbeans</artifactId>
-			<version>2.3.0</version>
+			<version>3.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
